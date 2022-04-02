@@ -4,7 +4,7 @@
 
 <head>
 
-<title>E.V.B.S. Event Management</title>
+<title>E.V.B.S. Event</title>
 <link rel="stylesheet" href="css/style.css">
 <link rel="stylesheet" 
 href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -15,7 +15,7 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" ></script> 
 
 
-<h1>E.V.B.S. Event Management</h1>
+<h1>E.V.B.S. Event</h1>
 </head>
 
 <body>
@@ -163,7 +163,7 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 
 <section id="promo1">
   <div class="container">
-  <p>E.V.B.S. Event Management</p>
+  <p>E.V.B.S. Event</p>
 <a href="#" class="btn btn-primary">Kontakt</a>
   </div>
 </section>
