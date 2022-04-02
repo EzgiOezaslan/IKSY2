@@ -1,0 +1,4 @@
+ 
+Die SQL-Datei ist ein Abbildung der Datenbank, die für die Klausur zur Verfügung gestellt wird.
+
+Falls Sie die Klausur zu Hause lösen wollen, können Sie die Datei nutzen, um sich eine eigenen Datenbank zu erstellen.

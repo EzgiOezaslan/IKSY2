@@ -1,0 +1,8 @@
+
+tr:nth-child(odd) {background-color: #ccc}
+tr:nth-child(even) {background-color: #eee}
+
+td, th {
+	padding: 2px 10px;
+	text-align: left;
+}
